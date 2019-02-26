@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老汪的私人博客</title>
+  
+  <subtitle>本站所有文章及资源只为学习交流，勿为他用。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://54lw.com/"/>
+  <updated>2019-02-23T11:19:36.549Z</updated>
+  <id>https://54lw.com/</id>
+  
+  <author>
+    <name>Kolb Wang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ubuntu下安装hexo，最简单的博客系统</title>
+    <link href="https://54lw.com/2019/02/23/Ubuntu%E4%B8%8B%E5%AE%89%E8%A3%85hexo%EF%BC%8C%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://54lw.com/2019/02/23/Ubuntu下安装hexo，最简单的博客系统/</id>
+    <published>2019-02-23T11:23:44.000Z</published>
+    <updated>2019-02-23T11:19:36.549Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://54lw.oss-cn-beijing.aliyuncs.com/20190223/HEXO.png&quot; alt&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://54lw.com/categories/Linux/"/>
+    
+    
+      <category term="linux" scheme="https://54lw.com/tags/linux/"/>
+    
+      <category term="hexo" scheme="https://54lw.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7在线部署LNMP</title>
+    <link href="https://54lw.com/2019/02/23/CentOS7%E5%9C%A8%E7%BA%BF%E9%83%A8%E7%BD%B2LNMP%EF%BC%88PHP7.1+Nginx+Mysql5.7%EF%BC%89/"/>
+    <id>https://54lw.com/2019/02/23/CentOS7在线部署LNMP（PHP7.1+Nginx+Mysql5.7）/</id>
+    <published>2019-02-23T10:23:44.000Z</published>
+    <updated>2019-02-24T12:51:35.534Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://54lw.oss-cn-beijing.aliyuncs.com/20190223/lnmp.jpg&quot; alt&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://54lw.com/categories/Linux/"/>
+    
+    
+      <category term="linux" scheme="https://54lw.com/tags/linux/"/>
+    
+      <category term="LNMP" scheme="https://54lw.com/tags/LNMP/"/>
+    
+      <category term="环境配置" scheme="https://54lw.com/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://54lw.com/2019/02/22/hello-world/"/>
+    <id>https://54lw.com/2019/02/22/hello-world/</id>
+    <published>2019-02-22T12:13:44.000Z</published>
+    <updated>2019-02-26T07:01:01.414Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is my very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt; or me!&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="个人语录" scheme="https://54lw.com/categories/%E4%B8%AA%E4%BA%BA%E8%AF%AD%E5%BD%95/"/>
+    
+    
+      <category term="The bagining." scheme="https://54lw.com/tags/The-bagining/"/>
+    
+  </entry>
+  
+</feed>
